@@ -1,4 +1,4 @@
-# FNP Sales Analysis-Excel-Project
+# FNP Sales Analysis-Excel Project
 
 Executive Summary: FNP Sales Performance Analysis
 1. Introduction & Objective
