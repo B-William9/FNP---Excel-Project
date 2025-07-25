@@ -5,6 +5,9 @@ Executive Summary: FNP Sales Performance Analysis
 
 This summary provides a high-level overview of the key findings from the FNP Sales Analysis dashboard. The objective of this analysis is to distill actionable insights from sales data, focusing on revenue drivers, customer behavior, and performance trends across various dimensions. The dashboard effectively tracks key performance indicators (KPIs) to facilitate strategic decision-making aimed at optimizing sales and marketing efforts.
 
+Dashboard Preview
+<img width="1213" height="506" alt="fnp Dhashboard Sreenshot" src="https://github.com/user-attachments/assets/bbdcc5c5-7846-4258-bb5a-aa5cd5dde878" />
+
 2. Key Performance Indicators (KPIs) - At a Glance
 
 The analysis period reveals a solid performance baseline with:
